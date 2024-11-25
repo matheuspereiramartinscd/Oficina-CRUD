@@ -68,7 +68,7 @@ Este projeto é um sistema de cadastro de orçamentos desenvolvido utilizando PH
       DB_CONNECTION=mysql
       DB_HOST=127.0.0.1
       DB_PORT=3306
-      DB_DATABASE=oficina2
+      DB_DATABASE=oficina_2_0
       DB_USERNAME=root
       DB_PASSWORD=
       ```
