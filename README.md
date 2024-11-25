@@ -97,6 +97,4 @@ Este projeto é um sistema de cadastro de orçamentos desenvolvido utilizando PH
       http://127.0.0.1:8000
       ```
 
----
 
-Esse README está formatado para GitHub, e você pode substituí-lo diretamente em seu repositório. Não se esqueça de atualizar o link do repositório com o correto, caso necessário.
