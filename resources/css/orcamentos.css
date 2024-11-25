@@ -1,0 +1,48 @@
+/* Estilos específicos para a página de orçamentos */
+.orcamentos-header {
+    background-color: #d79e41;
+    /* Tom de ocre */
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.orcamentos-filter {
+    margin: 20px 0;
+}
+
+.orcamentos-table th {
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.orcamentos-table td {
+    background-color: #ffffff;
+}
+
+.orcamentos-btn-edit {
+    background-color: #f0ad4e;
+    /* Tom de laranja */
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.orcamentos-btn-edit:hover {
+    background-color: #ec971f;
+}
+
+.orcamentos-btn-delete {
+    background-color: #d9534f;
+    /* Tom de vermelho */
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.orcamentos-btn-delete:hover {
+    background-color: #c9302c;
+}
