@@ -1,6 +1,6 @@
 # Oficina 2.0 - Sistema de Cadastro de Orçamentos
 
-Este projeto é um sistema de cadastro de orçamentos desenvolvido utilizando PHP, o framework Laravel e o banco de dados MySQL. O objetivo é fornecer uma plataforma para gerenciar orçamentos de forma simples e eficiente. A aplicação é baseada no padrão MVC (Model-View-Controller), utilizando Laravel para a criação de APIs e gerenciamento da lógica de negócios.
+Este projeto é um sistema de cadastro de orçamentos desenvolvido utilizando PHP, o framework Laravel e o banco de dados MySQL. O objetivo é fornecer uma plataforma para gerenciar orçamentos de forma simples e eficiente. A aplicação é baseada no padrão MVC (Model-View-Controller), utilizando Laravel para a criação de APIs e gerenciamento da lógica de negócios..
 
 ## Funcionalidades
 
